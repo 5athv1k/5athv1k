@@ -1,6 +1,6 @@
 # Hi, I'm Sathvik 
 
-# BCA Student | Aspiring Data Analyst | SQL • Python • Excel • Power BI
+# BCA Student |Aspiring Data Scientist| SQL • Python • Excel • Power BI
 I'm a BCA student building practical skills in **Data Analytics, SQL, Python, Excel, and Power BI**.
 
 I enjoy turning raw data into meaningful insights, identifying business problems, and building data-driven solutions.
