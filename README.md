@@ -1,15 +1,15 @@
 # Hi, I'm Sathvik 
 
-# BCA Student |Data Scientist|Machine Learning Engineer 
-I'm a BCA student building practical skills in **Data Analytics, SQL, Python, Excel, and Power BI**.
+# Student | Data Scientist | Machine Learning Engineer 
+I'm a student building practical skills in **Data Scientist, SQL, Python, Excel, and Power BI**.
 
 I enjoy turning raw data into meaningful insights, identifying business problems, and building data-driven solutions.
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 📊 Retail Demand Forecasting & Dynamic Pricing Optimization
+### Retail Demand Forecasting & Dynamic Pricing Optimization
 
 An end-to-end data science project combining:
 
@@ -22,11 +22,11 @@ An end-to-end data science project combining:
 
 **Tech:** Python • Pandas • NumPy • XGBoost • Statistical Modeling • Jupyter
 
-🔗 https://github.com/5athv1k/Retail-demand-dynamic-pricing.git
+https://github.com/5athv1k/Retail-demand-dynamic-pricing.git
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Data Analytics
 - SQL
@@ -52,7 +52,7 @@ An end-to-end data science project combining:
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced SQL
 - Python for Data Analysis
@@ -64,34 +64,24 @@ An end-to-end data science project combining:
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Technologies |
 |---|---|---|
-| 📊 Retail Demand Forecasting & Dynamic Pricing | Demand forecasting, price elasticity and constrained pricing optimization | Python, Pandas, XGBoost |
-| 📈 Sales Analytics Dashboard | Business performance analysis and KPI visualization | Excel, Power BI |
-| 💳 Customer Segmentation | Customer segmentation using unsupervised learning | Python, Pandas, Scikit-learn |
+| Retail Demand Forecasting & Dynamic Pricing | Demand forecasting, price elasticity and constrained pricing optimization | Python, Pandas, XGBoost |
+| Sales Analytics Dashboard | Business performance analysis and KPI visualization | Excel, Power BI |
+| Customer Segmentation | Customer segmentation using unsupervised learning | Python, Pandas, Scikit-learn |
 
 More projects coming soon.
 
 ---
 
-## 🎯 Career Goal
+## Connect With Me
 
-I'm working towards becoming a **Data Analyst** and building strong skills in:
-
-**SQL → Excel → Python → Statistics → Power BI → Business Analytics**
-
-My focus is on building projects that demonstrate practical problem-solving rather than just completing tutorials.
+- LinkedIn: www.linkedin.com/in/5athvik
+- Email: sathvikbr08@gmail.com
+- GitHub: https://github.com/5athv1k
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/5athvik
-- 📧 Email: sathvikbr08@gmail.com
-- 🐙 GitHub: https://github.com/5athv1k
-
----
-
-⭐ If you find any of my projects useful, feel free to explore the repositories and connect with me!
+If you find any of my projects useful, feel free to explore the repositories and connect with me!
