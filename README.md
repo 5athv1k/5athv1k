@@ -1,4 +1,4 @@
-# Hi, I'm Sathvik 
+# Hi, I'm Sathvik  
 
 # Student | Data Scientist | Machine Learning Engineer 
 I'm a student building practical skills in **Data Scientist, SQL, Python, Excel, and Power BI**.
