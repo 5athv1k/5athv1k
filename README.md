@@ -5,7 +5,7 @@ I'm a student building practical skills in **Data Scientist, SQL, Python, Excel,
 
 I enjoy turning raw data into meaningful insights, identifying business problems, and building data-driven solutions.
 
----
+--- 
 
 ## Featured Project
 
