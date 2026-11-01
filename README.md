@@ -72,7 +72,7 @@ https://github.com/5athv1k/Retail-demand-dynamic-pricing.git
 | Sales Analytics Dashboard | Business performance analysis and KPI visualization | Excel, Power BI |
 | Customer Segmentation | Customer segmentation using unsupervised learning | Python, Pandas, Scikit-learn |
 
-More projects coming soon.
+More projects coming soon. 
 
 ---
 
