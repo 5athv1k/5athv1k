@@ -7,7 +7,7 @@ I enjoy turning raw data into meaningful insights, identifying business problems
 
 --- 
 
-## Featured Project
+## Featured Project 
 
 ### Retail Demand Forecasting & Dynamic Pricing Optimization
 
